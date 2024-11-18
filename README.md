@@ -1,4 +1,4 @@
-git clone https://MR-DITA/IP-CAMERA
+git clone https://github.com/MR-DITA/IP-CAMERA
 
 cd IP-CAMERA
 
